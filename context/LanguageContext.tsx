@@ -165,11 +165,11 @@ export const translations: Record<Language, Translations> = {
     },
     hero: {
       kicker: "Personal • Business • Documentation • Case Assistance",
-      titleLine1: "Have a Legal Problem?",
+      titleLine1: "Need Case Assistance?",
       titleLine2: "Bring It to Us.",
       titleLine3: "We'll Help You to",
       titleLine4: "Figure It Out.",
-      desc: "CASE SUNO helps you understand your legal problem and find the right help.",
+      desc: "CASE SUNO helps you understand your problem and find the right help.",
       ctaPrimary: "Start Your Enquiry",
       badgeConfidential: "Confidential",
       badgeConfidentialSub: "& Secure",
@@ -190,16 +190,16 @@ export const translations: Record<Language, Translations> = {
         {
           id: "notice-summons-court-case",
           title: "Notice, Summons & Court / Case",
-          shortDesc: "Guidance for legal notices, summons, court matters and ongoing cases.",
+          shortDesc: "Guidance for formal notices, summons, court matters and ongoing cases.",
           overview:
-            "If you have received a legal notice, summons, court communication, or are already involved in a case, CASE SUNO helps you understand the situation, organise the relevant information and identify the appropriate next step.",
+            "If you have received a formal notice, summons, court communication, or are already involved in a case, CASE SUNO helps you understand the situation, organise the relevant information and identify the appropriate next step.",
           whatWeDo: [
             "Understand the notice, summons or case information",
             "Organise relevant documents and timelines",
             "Explain available procedural next steps",
             "Coordinate with an appropriate professional where required",
           ],
-          commonSituations: ["Legal notices", "Court summons", "Pending court cases", "Replies to notices"],
+          commonSituations: ["Formal notices", "Court summons", "Pending court cases", "Replies to notices"],
           deliveryMode: "Online assistance with professional coordination where required",
         },
         {
@@ -227,7 +227,7 @@ export const translations: Record<Language, Translations> = {
             "Organise property-related documents",
             "Build a clear ownership and event timeline",
             "Identify missing or relevant documentation",
-            "Coordinate with appropriate legal or technical professionals",
+            "Coordinate with appropriate case-support or technical professionals",
           ],
           commonSituations: [
             "Property ownership matters",
@@ -286,7 +286,7 @@ export const translations: Record<Language, Translations> = {
           whatWeDo: [
             "Listen to and organise the situation",
             "Build a clear timeline of events",
-            "Organise relevant family and legal documents",
+            "Organise relevant family and case documents",
             "Coordinate with an appropriate professional where required",
           ],
           commonSituations: [
@@ -307,7 +307,7 @@ export const translations: Record<Language, Translations> = {
             "Organise commercial documents",
             "Structure business requirements",
             "Prepare clear summaries and timelines",
-            "Coordinate with legal or financial professionals where required",
+            "Coordinate with case-support or financial professionals where required",
           ],
           commonSituations: [
             "Business agreements",
@@ -398,7 +398,7 @@ export const translations: Record<Language, Translations> = {
           title: "Listen",
           desc: "Understand what problem or requirement you're facing.",
           detail:
-            "We start with an unhurried, patient conversation. No legal jargon or intimidating formalities. You explain your situation, who is involved, and what outcome you hope to achieve.",
+            "We start with an unhurried, patient conversation. No technical jargon or intimidating formalities. You explain your situation, who is involved, and what outcome you hope to achieve.",
           deliverables: ["Intake summary", "Problem statement clarification", "Immediate risk checklist"],
         },
         {
@@ -422,7 +422,7 @@ export const translations: Record<Language, Translations> = {
           title: "Coordinate",
           desc: "Connect with the right independent professionals where required.",
           detail:
-            "If legal counsel, CA audit, property surveyor, or mediator is required, we connect you with vetted practitioners suited to your matter, presenting them with your organized brief so you save time and consultation fees.",
+            "If professional counsel, CA audit, property surveyor, or mediator is required, we connect you with vetted practitioners suited to your matter, presenting them with your organized brief so you save time and consultation fees.",
           deliverables: ["Specialist recommendation", "Standardized brief handover", "Transparent fee alignment"],
         },
         {
@@ -524,7 +524,7 @@ export const translations: Record<Language, Translations> = {
       alreadyAccount: "Already have an account?",
       signUp: "Sign up",
       trustedSupport: "Trusted support",
-      legalJourney: "for your legal journey.",
+      legalJourney: "for your case journey.",
     },
   },
 
@@ -545,11 +545,11 @@ export const translations: Record<Language, Translations> = {
     },
     hero: {
       kicker: "વ્યક્તિગત • વ્યવસાય • દસ્તાવેજીકરણ • કેસ સહાય",
-      titleLine1: "કાનૂની સમસ્યા છે?",
+      titleLine1: "કેસ સહાયની જરૂર છે?",
       titleLine2: "અમને જણાવો.",
       titleLine3: "અમે મદદ કરીશું",
       titleLine4: "સાચો રસ્તો સમજવામાં.",
-      desc: "CASE SUNO તમારી કાનૂની સમસ્યા સમજવા અને યોગ્ય મદદ મેળવવામાં મદદ કરે છે.",
+      desc: "CASE SUNO તમારી સમસ્યા સમજવા અને યોગ્ય મદદ મેળવવામાં મદદ કરે છે.",
       ctaPrimary: "તમારી પૂછપરછ શરૂ કરો",
       badgeConfidential: "ગોપનીય",
       badgeConfidentialSub: "& સુરક્ષિત",
@@ -570,16 +570,16 @@ export const translations: Record<Language, Translations> = {
         {
           id: "notice-summons-court-case",
           title: "નોટિસ, સમન્સ અને કોર્ટ / કેસ",
-          shortDesc: "કાનૂની નોટિસ, સમન્સ, કોર્ટ અને કેસ સંબંધિત સહાય.",
+          shortDesc: "ઔપચારિક નોટિસ, સમન્સ, કોર્ટ અને કેસ સંબંધિત સહાય.",
           overview:
-            "જો તમને કાનૂની નોટિસ, સમન્સ અથવા કોર્ટ સંબંધિત સંચાર મળ્યો હોય, તો CASE SUNO પરિસ્થિતિ સમજવામાં, જરૂરી માહિતી ગોઠવવામાં અને આગળનું યોગ્ય પગલું ઓળખવામાં મદદ કરે છે.",
+            "જો તમને ઔપચારિક નોટિસ, સમન્સ અથવા કોર્ટ સંબંધિત સંચાર મળ્યો હોય, તો CASE SUNO પરિસ્થિતિ સમજવામાં, જરૂરી માહિતી ગોઠવવામાં અને આગળનું યોગ્ય પગલું ઓળખવામાં મદદ કરે છે.",
           whatWeDo: [
             "નોટિસ અથવા કેસની માહિતી સમજવી",
             "જરૂરી દસ્તાવેજો અને સમયરેખા ગોઠવવી",
             "આગળની પ્રક્રિયાની સમજ આપવી",
             "જરૂર પડે ત્યાં યોગ્ય વ્યાવસાયિક સાથે જોડાણ",
           ],
-          commonSituations: ["કાનૂની નોટિસ", "કોર્ટ સમન્સ", "ચાલુ કોર્ટ કેસ", "નોટિસના જવાબ"],
+          commonSituations: ["ઔપચારિક નોટિસ", "કોર્ટ સમન્સ", "ચાલુ કોર્ટ કેસ", "નોટિસના જવાબ"],
           deliveryMode: "ઓનલાઇન સહાય અને જરૂર મુજબ વ્યાવસાયિક સાથે સંકલન",
         },
         {
@@ -607,7 +607,7 @@ export const translations: Record<Language, Translations> = {
             "મિલકત સંબંધિત દસ્તાવેજો ગોઠવવા",
             "માલિકી અને ઘટનાક્રમની સમયરેખા તૈયાર કરવી",
             "ખૂટતા અથવા જરૂરી દસ્તાવેજો ઓળખવા",
-            "જરૂર મુજબ કાનૂની અથવા ટેકનિકલ નિષ્ણાત સાથે જોડાણ",
+            "જરૂર મુજબ કેસ સહાય અથવા ટેકનિકલ નિષ્ણાત સાથે જોડાણ",
           ],
           commonSituations: ["મિલકત માલિકી", "જમીન સંબંધિત વિવાદ", "મિલકત દસ્તાવેજીકરણ", "મિલકત ખરીદી અથવા વેચાણ"],
           deliveryMode: "સુરક્ષિત દસ્તાવેજ સમીક્ષા અને જરૂર મુજબ વ્યાવસાયિક સાથે સંકલન",
@@ -651,7 +651,7 @@ export const translations: Record<Language, Translations> = {
           whatWeDo: [
             "પરિસ્થિતિ સાંભળવી અને ગોઠવવી",
             "ઘટનાઓની સ્પષ્ટ સમયરેખા બનાવવી",
-            "જરૂરી પારિવારિક અને કાનૂની દસ્તાવેજો ગોઠવવા",
+            "જરૂરી પારિવારિક અને કેસ સંબંધિત દસ્તાવેજો ગોઠવવા",
             "જરૂર મુજબ યોગ્ય વ્યાવસાયિક સાથે જોડાણ",
           ],
           commonSituations: ["પારિવારિક વિવાદ", "વારસાઈ સંબંધિત બાબતો", "વસિયત અને સંબંધિત દસ્તાવેજો", "સંબંધિત વ્યક્તિગત બાબતો"],
@@ -667,7 +667,7 @@ export const translations: Record<Language, Translations> = {
             "કોમર્શિયલ દસ્તાવેજો ગોઠવવા",
             "વ્યવસાયિક જરૂરિયાતોને માળખું આપવું",
             "સ્પષ્ટ સારાંશ અને સમયરેખા તૈયાર કરવી",
-            "જરૂર મુજબ કાનૂની અથવા નાણાકીય નિષ્ણાત સાથે જોડાણ",
+            "જરૂર મુજબ કેસ સહાય અથવા નાણાકીય નિષ્ણાત સાથે જોડાણ",
           ],
           commonSituations: ["વ્યવસાયિક કરારો", "કોમર્શિયલ વિવાદ", "વેન્ડર અથવા ક્લાયન્ટ બાબતો", "વ્યવસાયિક દસ્તાવેજીકરણ"],
           deliveryMode: "ઓનલાઇન સહાય અને જરૂર મુજબ વ્યાવસાયિક સાથે સંકલન",
@@ -743,7 +743,7 @@ export const translations: Record<Language, Translations> = {
           title: "સાંભળવું (Listen)",
           desc: "તમે કઈ સમસ્યા કે જરૂરિયાતનો સામનો કરી રહ્યા છો તે સમજવું.",
           detail:
-            "અમે કોઈપણ ઉતાવળ વગર ધીરજપૂર્વક તમારી વાત સાંભળીને શરૂઆત કરીએ છીએ. કોઈ કાનૂની આડંબરો નહીં. તમે તમારી પરિસ્થિતિ અને અપેક્ષિત પરિણામ મુક્ત મને જણાવી શકો છો.",
+            "અમે કોઈપણ ઉતાવળ વગર ધીરજપૂર્વક તમારી વાત સાંભળીને શરૂઆત કરીએ છીએ. કોઈ અઘરી ટેકનિકલ ભાષા નહીં. તમે તમારી પરિસ્થિતિ અને અપેક્ષિત પરિણામ મુક્ત મને જણાવી શકો છો.",
           deliverables: ["પ્રારંભિક સારાંશ", "સમસ્યાનું સ્પષ્ટ નિવેદન", "તાત્કાલિક જોખમ ચેકલિસ્ટ"],
         },
         {
@@ -863,7 +863,7 @@ export const translations: Record<Language, Translations> = {
       alreadyAccount: "પહેલેથી એકાઉન્ટ છે?",
       signUp: "સાઇન અપ",
       trustedSupport: "વિશ્વસનીય સહાય",
-      legalJourney: "તમારી કાનૂની યાત્રા માટે.",
+      legalJourney: "તમારી કેસ યાત્રા માટે.",
     },
   },
 
@@ -884,11 +884,11 @@ export const translations: Record<Language, Translations> = {
     },
     hero: {
       kicker: "व्यक्तिगत • व्यवसाय • दस्तावेज़ीकरण • केस सहायता",
-      titleLine1: "कानूनी समस्या है?",
+      titleLine1: "केस सहायता चाहिए?",
       titleLine2: "हमें बताएं।",
       titleLine3: "हम मदद करेंगे",
       titleLine4: "सही रास्ता जानने में।",
-      desc: "CASE SUNO आपकी कानूनी समस्या समझने और सही मदद पाने में मदद करता है।",
+      desc: "CASE SUNO आपकी समस्या समझने और सही मदद पाने में मदद करता है।",
       ctaPrimary: "अपनी पूछताछ शुरू करें",
       badgeConfidential: "गोपनीय",
       badgeConfidentialSub: "& सुरक्षित",
@@ -909,16 +909,16 @@ export const translations: Record<Language, Translations> = {
         {
           id: "notice-summons-court-case",
           title: "नोटिस, समन और कोर्ट / केस",
-          shortDesc: "कानूनी नोटिस, समन, कोर्ट और केस से जुड़े मामलों में सहायता।",
+          shortDesc: "औपचारिक नोटिस, समन, कोर्ट और केस से जुड़े मामलों में सहायता।",
           overview:
-            "यदि आपको कानूनी नोटिस, समन या कोर्ट से संबंधित सूचना मिली है, तो CASE SUNO स्थिति समझने, जरूरी जानकारी व्यवस्थित करने और अगले उचित कदम को पहचानने में मदद करता है।",
+            "यदि आपको औपचारिक नोटिस, समन या कोर्ट से संबंधित सूचना मिली है, तो CASE SUNO स्थिति समझने, जरूरी जानकारी व्यवस्थित करने और अगले उचित कदम को पहचानने में मदद करता है।",
           whatWeDo: [
             "नोटिस या केस की जानकारी समझना",
             "जरूरी दस्तावेज और समयरेखा व्यवस्थित करना",
             "आगे की प्रक्रिया को समझना",
             "आवश्यकता पड़ने पर सही पेशेवर से जोड़ना",
           ],
-          commonSituations: ["कानूनी नोटिस", "कोर्ट समन", "चल रहे कोर्ट केस", "नोटिस के जवाब"],
+          commonSituations: ["औपचारिक नोटिस", "कोर्ट समन", "चल रहे कोर्ट केस", "नोटिस के जवाब"],
           deliveryMode: "ऑनलाइन सहायता और आवश्यकता पड़ने पर पेशेवर समन्वय",
         },
         {
@@ -946,7 +946,7 @@ export const translations: Record<Language, Translations> = {
             "संपत्ति से जुड़े दस्तावेज व्यवस्थित करना",
             "स्वामित्व और घटनाओं की समयरेखा बनाना",
             "जरूरी या उपलब्ध न होने वाले दस्तावेज पहचानना",
-            "आवश्यकता पड़ने पर कानूनी या तकनीकी पेशेवर से जोड़ना",
+            "आवश्यकता पड़ने पर केस सहायता या तकनीकी पेशेवर से जोड़ना",
           ],
           commonSituations: ["संपत्ति स्वामित्व", "भूमि संबंधी विवाद", "संपत्ति दस्तावेज", "संपत्ति खरीद या बिक्री"],
           deliveryMode: "सुरक्षित दस्तावेज समीक्षा और आवश्यकता पड़ने पर पेशेवर समन्वय",
@@ -990,7 +990,7 @@ export const translations: Record<Language, Translations> = {
           whatWeDo: [
             "स्थिति को सुनना और व्यवस्थित करना",
             "घटनाओं की स्पष्ट समयरेखा बनाना",
-            "जरूरी पारिवारिक और कानूनी दस्तावेज व्यवस्थित करना",
+            "जरूरी पारिवारिक और केस संबंधी दस्तावेज व्यवस्थित करना",
             "आवश्यकता पड़ने पर सही पेशेवर से जोड़ना",
           ],
           commonSituations: ["पारिवारिक विवाद", "विरासत से जुड़े मामले", "वसीयत और संबंधित दस्तावेज", "व्यक्तिगत पारिवारिक मामले"],
@@ -1006,7 +1006,7 @@ export const translations: Record<Language, Translations> = {
             "कमर्शियल दस्तावेज व्यवस्थित करना",
             "व्यावसायिक आवश्यकताओं को संरचित करना",
             "स्पष्ट सारांश और समयरेखा तैयार करना",
-            "आवश्यकता पड़ने पर कानूनी या वित्तीय पेशेवर से जोड़ना",
+            "आवश्यकता पड़ने पर केस सहायता या वित्तीय पेशेवर से जोड़ना",
           ],
           commonSituations: ["व्यावसायिक अनुबंध", "कमर्शियल विवाद", "वेंडर या क्लाइंट मामले", "व्यावसायिक दस्तावेजीकरण"],
           deliveryMode: "ऑनलाइन सहायता और आवश्यकता पड़ने पर पेशेवर समन्वय",
@@ -1082,7 +1082,7 @@ export const translations: Record<Language, Translations> = {
           title: "सुनना (Listen)",
           desc: "समझना कि आप किस समस्या या आवश्यकता का सामना कर रहे हैं।",
           detail:
-            "हम बिना किसी जल्दबाजी के धैर्यपूर्वक आपकी बात सुनकर शुरुआत करते हैं। कोई कानूनी आडंबर नहीं। आप अपनी स्थिति और अपेक्षित परिणाम खुलकर बता सकते हैं।",
+            "हम बिना किसी जल्दबाजी के धैर्यपूर्वक आपकी बात सुनकर शुरुआत करते हैं। कोई कठिन तकनीकी भाषा नहीं। आप अपनी स्थिति और अपेक्षित परिणाम खुलकर बता सकते हैं।",
           deliverables: ["प्रारंभिक सारांश", "समस्या का स्पष्ट विवरण", "तात्कालिक जोखिम चेकलिस्ट"],
         },
         {
@@ -1202,7 +1202,7 @@ export const translations: Record<Language, Translations> = {
       alreadyAccount: "पहले से अकाउंट है?",
       signUp: "साइन अप",
       trustedSupport: "विश्वसनीय सहायता",
-      legalJourney: "आपकी कानूनी यात्रा के लिए।",
+      legalJourney: "आपकी केस यात्रा के लिए।",
     },
   },
 };

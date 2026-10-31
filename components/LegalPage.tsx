@@ -37,7 +37,7 @@ const UI = {
   back: { en: "Back to Home", hi: "होम पर वापस", gu: "હોમ પર પાછા" } as L3,
   onThisPage: { en: "On this page", hi: "इस पृष्ठ पर", gu: "આ પૃષ્ઠ પર" } as L3,
   print: { en: "Print", hi: "प्रिंट करें", gu: "પ્રિન્ટ કરો" } as L3,
-  legal: { en: "Legal", hi: "कानूनी", gu: "કાનૂની" } as L3,
+  legal: { en: "Policies", hi: "नीतियाँ", gu: "નીતિઓ" } as L3,
   helpBody: {
     en: "Reach out and our team will clarify anything in this document.",
     hi: "हमसे संपर्क करें, हमारी टीम इस दस्तावेज़ से जुड़ा हर प्रश्न स्पष्ट करेगी।",

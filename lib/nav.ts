@@ -32,7 +32,7 @@ export const navLabel = (t: Translations, key: NavKey): string =>
     track: t.nav.trackRequest,
   })[key];
 
-/** Which page-type nav item matches the current URL (null on home / legal pages) */
+/** Which page-type nav item matches the current URL (null on home / policy pages) */
 export const pageKeyFromPath = (pathname: string): NavKey | null =>
   NAV_ITEMS.find((i) => !i.section && pathname.startsWith(i.href))?.key ?? null;
 

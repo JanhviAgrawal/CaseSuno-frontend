@@ -48,13 +48,13 @@ const CHECKLISTS: { id: string; icon: LucideIcon; title: L3; category: L3; pages
   {
     id: "legal-notice",
     icon: FileText,
-    title: { en: "Guide to Receiving a Legal Notice: Do’s & Don’ts", hi: "कानूनी नोटिस प्राप्त होने पर क्या करें और क्या न करें", gu: "કાનૂની નોટિસ મળવા પર શું કરવું અને શું ન કરવું" },
+    title: { en: "Guide to Receiving a Formal Notice: Do’s & Don’ts", hi: "औपचारिक नोटिस प्राप्त होने पर क्या करें और क्या न करें", gu: "ઔપચારિક નોટિસ મળવા પર શું કરવું અને શું ન કરવું" },
     category: { en: "Individual Assistance", hi: "व्यक्तिगत सहायता", gu: "વ્યક્તિગત સહાય" },
     pages: { en: "3 Pages", hi: "३ पृष्ठ", gu: "૩ પાના" },
     desc: {
-      en: "Step-by-step checklist on timelines, preserved envelopes, avoiding emotional responses, and preparing structured factual points for legal reply.",
-      hi: "समयसीमा का ध्यान, डाक लिफाफा संभालना, जल्दबाजी में उत्तर न देना और वकील के लिए बिंदुवार तथ्य तैयार करना।",
-      gu: "સમયમર્યાદા, પોસ્ટ કવર સાચવવું, આવેશમાં જવાબ ન આપવો અને વકીલ માટે મુદ્દાસર હકીકતો તૈયાર કરવાની માર્ગદર્શિકા.",
+      en: "Step-by-step checklist on timelines, preserved envelopes, avoiding emotional responses, and preparing structured factual points for a professional reply.",
+      hi: "समयसीमा का ध्यान, डाक लिफाफा संभालना, जल्दबाजी में उत्तर न देना और पेशेवर उत्तर के लिए बिंदुवार तथ्य तैयार करना।",
+      gu: "સમયમર્યાદા, પોસ્ટ કવર સાચવવું, આવેશમાં જવાબ ન આપવો અને વ્યાવસાયિક જવાબ માટે મુદ્દાસર હકીકતો તૈયાર કરવાની માર્ગદર્શિકા.",
     },
   },
   {

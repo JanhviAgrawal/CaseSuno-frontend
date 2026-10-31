@@ -101,9 +101,9 @@ const S = {
     hi: "CASE SUNO एक परामर्श, केस समन्वय और मार्गदर्शन सेवा है। हम आपकी बात सुनते हैं, दस्तावेज़ व्यवस्थित करते हैं, व्यावहारिक विकल्प समझाते हैं और ज़रूरत पड़ने पर ही सत्यापित स्वतंत्र पेशेवरों (वकील, CA, मध्यस्थ) से जोड़ते हैं।",
   },
   a_lawyer: {
-    en: "CASE SUNO is not a law firm and does not represent anyone in court. When formal legal work is needed, we connect you with verified independent professionals.",
-    gu: "CASE SUNO કોઈ વકીલ પેઢી નથી અને અદાલતમાં કોઈનું પ્રતિનિધિત્વ કરતી નથી. ઔપચારિક કાનૂની કામની જરૂર હોય ત્યારે અમે તમને ચકાસાયેલા સ્વતંત્ર વ્યાવસાયિકો સાથે જોડીએ છીએ.",
-    hi: "CASE SUNO कोई लॉ फर्म नहीं है और अदालत में किसी का प्रतिनिधित्व नहीं करता। औपचारिक कानूनी काम की ज़रूरत होने पर हम आपको सत्यापित स्वतंत्र पेशेवरों से जोड़ते हैं।",
+    en: "CASE SUNO is not a law firm and does not represent anyone in court. When formal professional assistance is needed, we connect you with verified independent professionals.",
+    gu: "CASE SUNO કોઈ વકીલ પેઢી નથી અને અદાલતમાં કોઈનું પ્રતિનિધિત્વ કરતી નથી. ઔપચારિક વ્યાવસાયિક સહાયની જરૂર હોય ત્યારે અમે તમને ચકાસાયેલા સ્વતંત્ર વ્યાવસાયિકો સાથે જોડીએ છીએ.",
+    hi: "CASE SUNO कोई लॉ फर्म नहीं है और अदालत में किसी का प्रतिनिधित्व नहीं करता। औपचारिक पेशेवर सहायता की ज़रूरत होने पर हम आपको सत्यापित स्वतंत्र पेशेवरों से जोड़ते हैं।",
   },
   a_help: {
     en: "Here are the areas we support. Tap one to learn more:",

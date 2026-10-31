@@ -18,7 +18,7 @@ const SiteActionsContext = createContext<SiteActions | undefined>(undefined);
 
 /**
  * Global UI available on every page:
- * enquiry form, WhatsApp drawer, chat assistant and the legal popup used by the form.
+ * enquiry form, WhatsApp drawer, chat assistant and the policy popup used by the form.
  */
 export const SiteActionsProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [enquiryOpen, setEnquiryOpen] = useState(false);

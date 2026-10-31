@@ -121,8 +121,8 @@ export const LEGAL_DOCS: Record<LegalType, LegalDoc> = {
         },
         p: {
           en: "While CASE SUNO exercises highest professional care in vetting independent professionals and organizing dossiers, outcomes in judicial, quasi-judicial, or arbitral forums depend on statutory merits and judicial discretion.",
-          hi: "यद्यपि CASE SUNO स्वतंत्र विशेषज्ञों की समीक्षा और फाइल तैयार करने में उच्चतम पेशेवर सावधानी बरतता है, न्यायिक या मध्यस्थता मंचों में परिणाम केस के कानूनी गुण-दोष और पीठासीन अधिकारी के विवेक पर निर्भर करते हैं।",
-          gu: "CASE SUNO વ્યાવસાયિકોની પસંદગી અને ફાઇલ તૈયાર કરવામાં ઉચ્ચતમ કાળજી રાખે છે, પરંતુ કોઈપણ ન્યાયિક કે લવાદ મંચમાં પરિણામ કેસની કાયદાકીય યોગ્યતા અને ન્યાયાધીશના વિવેક પર નિર્ભર રહે છે.",
+          hi: "यद्यपि CASE SUNO स्वतंत्र विशेषज्ञों की समीक्षा और फाइल तैयार करने में उच्चतम पेशेवर सावधानी बरतता है, न्यायिक या मध्यस्थता मंचों में परिणाम केस के गुण-दोष और पीठासीन अधिकारी के विवेक पर निर्भर करते हैं।",
+          gu: "CASE SUNO વ્યાવસાયિકોની પસંદગી અને ફાઇલ તૈયાર કરવામાં ઉચ્ચતમ કાળજી રાખે છે, પરંતુ કોઈપણ ન્યાયિક કે લવાદ મંચમાં પરિણામ કેસની યોગ્યતા અને ન્યાયાધીશના વિવેક પર નિર્ભર રહે છે.",
         },
       },
     ],
@@ -139,8 +139,8 @@ export const LEGAL_DOCS: Record<LegalType, LegalDoc> = {
     },
     kicker: {
       en: "Bar Council & Regulatory Compliance",
-      hi: "बार काउंसिल एवं विधिक अनुपालन",
-      gu: "બાર કાઉન્સિલ અને કાનૂની પાલન",
+      hi: "बार काउंसिल एवं नियामक अनुपालन",
+      gu: "બાર કાઉન્સિલ અને નિયમનકારી પાલન",
     },
     sections: [
       {
@@ -159,14 +159,14 @@ export const LEGAL_DOCS: Record<LegalType, LegalDoc> = {
       {
         id: "no-representation",
         h: {
-          en: "2. No Direct Legal Representation",
+          en: "2. No Direct Court Representation",
           hi: "२. न्यायालय में सीधा प्रतिनिधित्व नहीं",
           gu: "૨. અદાલતમાં સીધું પ્રતિનિધિત્વ નહીં",
         },
         p: {
-          en: "This website is not intended to be a source of legal advertising or solicitation. The information provided herein is for informational and educational purposes only and should not be construed as legal advice.",
-          hi: "यह वेबसाइट कानूनी विज्ञापन या वकालत प्रचार का स्रोत नहीं है। यहां दी गई जानकारी केवल सूचनात्मक और मार्गदर्शक उद्देश्यों के लिए है और इसे अंतिम विधिक सलाह न समझा जाए।",
-          gu: "આ વેબસાઇટ કાનૂની જાહેરાત અથવા ક્લાયન્ટ શોધવાનો સ્ત્રોત નથી. અહીં પૂરી પાડવામાં આવેલ માહિતી ફક્ત જાણકારી માટે છે અને તેને કાયદાકીય સલાહ તરીકે ગણવી નહીં.",
+          en: "This website is not intended to be a source of advertising or solicitation for professional services. The information provided herein is for informational and educational purposes only and should not be construed as professional advice.",
+          hi: "यह वेबसाइट पेशेवर सेवाओं के विज्ञापन या प्रचार का स्रोत नहीं है। यहां दी गई जानकारी केवल सूचनात्मक और मार्गदर्शक उद्देश्यों के लिए है और इसे पेशेवर सलाह न समझा जाए।",
+          gu: "આ વેબસાઇટ વ્યાવસાયિક સેવાઓની જાહેરાત અથવા ક્લાયન્ટ શોધવાનો સ્ત્રોત નથી. અહીં પૂરી પાડવામાં આવેલ માહિતી ફક્ત જાણકારી માટે છે અને તેને વ્યાવસાયિક સલાહ તરીકે ગણવી નહીં.",
         },
       },
       {
